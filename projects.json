@@ -1,0 +1,11 @@
+{
+    "SPOROS":{
+        "NAME":"SPOROS",
+        "PKG":{
+            "CON":["PKG","TIM"],
+            "PL1":["PKG","TIM"],
+            "PL2":["PKG"]
+        },
+        "CMD":["CXON","CXOFF","SP1ON","SP1OFF","SP2ON","SP2OFF","SIMON","SIMAC","SIMDIS"]
+    }
+}
